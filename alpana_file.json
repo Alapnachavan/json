@@ -1,0 +1,12 @@
+{
+      "student1": {
+            "name": "rutuja",
+            "age": "30",
+            "vilage": "saswad"
+      },
+      "student2": {
+            "name": "alpana",
+            "age": "20",
+            "vilage": "bhor"
+      }
+}

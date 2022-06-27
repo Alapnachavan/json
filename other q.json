@@ -1,0 +1,32 @@
+{
+  "student1": {
+    "name": "Alpana",
+    "city name": "Bhor",
+    "faclty name": "commers student",
+    "collage name": "wagire collage"
+  },
+  "student2": {
+    "name": "Rutuja",
+    "city name": "saswad",
+    "faclty name": "commers student",
+    "collage name": "wagire collage"
+  },
+  "student3": {
+    "name": "Srushti",
+    "city name": "saswad",
+    "faclty name": "commers student",
+    "collage name": "wagire collage"
+  },
+  "student4": {
+    "name": "gressy",
+    "city name": "pune",
+    "faclty name": "science student",
+    "collage name": "wagire collage"
+  },
+  "student5": {
+    "name": "shruti",
+    "city name": "hadpsar",
+    "faclty name": "science student",
+    "collage name": "wagire collage"
+  }
+}
